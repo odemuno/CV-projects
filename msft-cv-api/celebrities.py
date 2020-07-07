@@ -11,7 +11,7 @@ subscription_key = "ADD_SUBSCRIPTION_KEY"
 
 # Add your endpoint or request URL from Azure Cognitive Services 
 endpoint = "ENDPOINT_ADDRESS"
-request_url = endpoint + "/v2.0/analyze"
+request_url = endpoint + "vision/v2.0/analyze"
 
 # Request the parameters you want to read
 parameters = {"visualFeatures":"Description, Faces",
