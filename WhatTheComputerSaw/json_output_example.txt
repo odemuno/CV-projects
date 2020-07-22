@@ -1,0 +1,20 @@
+{
+	"categories": [{
+		"name": "people_young",
+		"score": 0.63671875,
+	}],
+
+	"description": {
+		"tags": ["person", "clothing", "woman", "smiling", "indoor", "posing", "wearing", "shirt", "holding", "dress", "photo", "young", "lady", "dressed", "standing", "camera", "hair", "table", "man", "wedding"],
+		"captions": [{
+			"text": "a woman smiling and posing for the camera",
+			"confidence": 0.9526629805804108
+		}]
+	},
+	"requestId": "<your_request_id>",
+	"metadata": {
+		"height": 3399,
+		"width": 2728,
+		"format": "Jpeg"
+	}
+}
