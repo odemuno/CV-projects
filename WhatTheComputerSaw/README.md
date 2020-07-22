@@ -14,9 +14,7 @@ One of the modules is on APIs and the example we covered was the Computer Vision
 
 # My approach
 ## Developed a project outline
-I used Trello to plan out my project between June 28th and July 25th.
-
-![trello](trello-projectplan.jpg)
+I used Trello to plan out my month-long project between June 28th and July 25th.
 
 ## Creating an Azure account
 To start off, I went ahead and created an Azure account using my school email. This is needed to work with Cognitive Services because you need a key and an endpoint to connect with the API.
