@@ -36,7 +36,7 @@ print("The image tags are: " + ", ".join([str(item) for item in results['descrip
 
 
 ## Collecting the data
-I asked my audience on my munoxtech [Instagram](www.instagram.com/munoxtech) and [Twitter](www.twitter.com/munoxtech) ! Specifically seeking #BlackinTech folks.
+I asked my audience on my **munoxtech** [Instagram](https://www.instagram.com/munoxtech/) and [Twitter](http://www.twitter.com/munoxtech/) ! Specifically seeking #BlackinTech folks.
 
 This was my instructions:
 > For this project in particular the only data I need from you (if you wanna participate) is a photo of yourself. I’m highlighting Black students in STEM through a CV algorithm. 
@@ -57,7 +57,7 @@ After gathering all the data, I used cana for the graphics. I drew out some of t
 
 --------------------------------------
 
-For more info, visit [munoxtech](https://www.instagram.com/p/CCM3f-fnRKy/?utm_source=ig_web_copy_link) on Instagram.
+For more info, pls visit [munoxtech](https://www.instagram.com/p/CCM3f-fnRKy/?utm_source=ig_web_copy_link).
 
 # References
 [Microsoft Calling APIs module](https://github.com/microsoft/c9-python-getting-started/blob/master/python-for-beginners/16%20-%20Calling%20APIs/call_api.py)
